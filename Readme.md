@@ -213,14 +213,3 @@ ValueError: List must contain at least nine numbers.
 ```
 
 ---
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-```
-
----
-
-Do you want me to also **add a diagram in ASCII art** in the README showing how axis=0 vs axis=1 works? That could make it super visual.
-```
